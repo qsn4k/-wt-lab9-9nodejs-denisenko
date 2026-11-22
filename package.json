@@ -1,0 +1,17 @@
+{
+  "name": "wt-lab9-nodejs-denisenko",
+  "version": "1.0.0",
+  "description": "Лабораторная работа WT-9: основы Node.js и публикация приложения на Render",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "http",
+    "api",
+    "wt-lab9"
+  ],
+  "author": "",
+  "license": "ISC"
+}
